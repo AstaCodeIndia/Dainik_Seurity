@@ -80,10 +80,11 @@ const HomePage = () => {
             </div>
             <div className="hidden md:block">
               <img
-                src="src\pages\Home\Home_Img.jpeg"
+              src='https://images.unsplash.com/photo-1743361380635-c71590fcba06?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
                 alt="Team working together"
                 className="rounded-[20px] shadow-xl"
               />
+              
             </div>
           </div>
         </div>

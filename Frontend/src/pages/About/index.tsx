@@ -8,13 +8,13 @@ const AboutPage = () => {
       id: 1,
       name: 'Ranvijay Singh',
       title: 'Prop',
-      image: "src/pages/About/R.jpg",
+      image: "https://images.unsplash.com/photo-1743361676485-c7e94291fa8a?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
       id: 2,
       name: 'Surendra prashad yadav',
       title: 'MD',
-      image: 'src/pages/About/Surendra prashad yadav.jpg',
+      image: 'https://images.unsplash.com/photo-1743361676542-0dbcb11c3d45?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     }
   ];
 
